@@ -12,7 +12,7 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Andrew K Moran"
 resume_title:                   ""
-resume_header_intro: "<p> Hello! I am a systems neuroscientist interested in olfaction, motor systems, and how sensorimotor integration across brain regions encoding both smell and movement.</p> <p>I am currently a Postdoctoral Fellow working with Diego Restrepo and Abigail Person at the University of Colorado, Anschutz Medical Campus where I am examining how cerebellar circuits compute sensorimotor transforms in odor plume navigation behavior. 
+resume_header_intro: "<p> Hello! I am a systems neuroscientist interested in olfaction, motor systems, and how sensorimotor integration across brain regions encoding both smell and movement.</p> <p>I am currently a Postdoctoral Fellow working with Diego Restrepo and Abigail Person at the University of Colorado, Anschutz Medical Campus where I am examining how cerebellar circuits compute sensorimotor transforms in odor plume navigation behavior.</p> 
 
 # Decide which sections to use
 # comment out to hide
