@@ -1,12 +1,12 @@
 -
-    title: "Dynamics of Glutamatergic Drive Underlie Diverse Responses of Olfactory Bulb Outputs In Vivo"
+    title: "GRINtrode: A neural implant for simultaneous two-photon imaging and extracellular electrophysiology in freely moving animals"
     authors: "CM McCullough, D Ramirez-Gordillo, M Hall, GL Futia, <b>AK Moran</b>, EA Gibson, D Restrepo"
     journal: "BioRxiv"
     volume: "doi: https://doi.org/10.1101/2022.06.17.496591"
     year: 2022
     url: https://www.biorxiv.org/content/10.1101/2022.06.17.496591v1
-    image: McCollough2022
-    imagetype: png
+    image: McCullough2022
+    imagetype: jpg
     briefly: "Electrophysiology and optical imaging are both parallel neurotechnologies used for studying neurophysiology. However, researchers tend to adopt one technology over the other with substantial limitations to either technique. Why not combine both? As part of the CU Neurophotonics team at CU Anschutz, we designed and tested a device, capable of recording population data and single-cell responses simultaneously in head-fixed or freely moving rodents. We call it the GRINtrode. We hope to ultimately utilize this technology in studying neural dynamics across brain regions during odor plume navigation."
     summary: ""
     highlight: true
@@ -18,7 +18,7 @@
     year: 2021
     url: https://www.frontiersin.org/articles/10.3389/fncir.2021.779056/full
     image: Moran2021b
-    imagetype: png
+    imagetype: jpg
     briefly: "Here, we dissected the underlying contribution of sensory drive and postsynaptic excitatory drive onto mitral/tufted cells in vivo using pharmacological methods. Surprisingly, we found a maintanence of glutamatergic drive when blocking postsynaptic excitation, suggesting that the majority of feedforward excitation is driven in vivo by sensory input. This paper challenges the in vitro notion that heterogenous bulbar output activity is mostly shaped by intermediate circuitry."
     summary: ""
     highlight: true
@@ -30,7 +30,7 @@
     year: 2021
     url: https://www.eneuro.org/content/8/2/ENEURO.0110-21.2021
     image: Moran2021a
-    imagetype: png
-    briefly: "We discovered using glutamate sensors expressed across g, that glutamatergic drive across mitral tufted cells is diverse, suggestive of underlying principle output neurons being driven by excitatory drive. This paper was also the first to characterize second generation SF-iGluSnFRs and glutamate/calcium simultaneously two-photon imaging in the mammalian olfactory bulb in vivo."
+    imagetype: jpg
+    briefly: "We discovered using glutamate sensors expressed across output neurons of the olfactory bulb, that glutamatergic drive across mitral tufted cells is diverse, suggestive of underlying principle output neurons being driven by excitatory drive. This paper was also the first to characterize second generation SF-iGluSnFRs and glutamate/calcium simultaneously two-photon imaging in the mammalian olfactory bulb in vivo."
     summary: ""
     highlight: true
