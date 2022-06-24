@@ -19,7 +19,7 @@
     url: https://www.frontiersin.org/articles/10.3389/fncir.2021.779056/full
     image: Moran2021b
     imagetype: jpg
-    briefly: "We dissected the underlying sources of excitatory drive onto mitral/tufted cells in vivo using pharmacological methods. Surprisingly, we found a maintanence of glutamatergic drive onto these cells when blocking postsynaptic excitation, suggestive of a majority of feedforward excitation is driven in vivo by sensory input rather than postsynaptic circuitry."
+    briefly: "We dissected the underlying sources of excitatory drive onto mitral/tufted cells in vivo using pharmacological methods. Surprisingly, we found a maintanence of glutamatergic drive onto these cells when blocking postsynaptic excitation, suggestive of a majority of feedforward excitation being driven in vivo by sensory input rather than postsynaptic circuitry."
     summary: ""
     highlight: true
 -
@@ -31,6 +31,6 @@
     url: https://www.eneuro.org/content/8/2/ENEURO.0110-21.2021
     image: Moran2021a
     imagetype: jpg
-    briefly: "Here, we used novel glutamate indicators to image the excitatory input onto dendrites of bulbar output cells (mitral/tufted cells). We found that odor-evoked, glutamatergic drive is diverse. This paper was the first to characterize second generation SF-iGluSnFRs with a high-throughput olfactometer and captured glutamate/calcium dynamics simultaneously in the mammalian olfactory bulb in vivo."
+    briefly: "Here, we used novel glutamate indicators to image the excitatory input onto dendrites of bulbar output cells (mitral/tufted cells). We found that odor-evoked, glutamatergic drive is diverse. This paper was the first to characterize second generation SF-iGluSnFRs with a high-throughput olfactometer and captured odor-evoked, glutamate/calcium dynamics simultaneously in the mammalian olfactory bulb in vivo."
     summary: ""
     highlight: true
