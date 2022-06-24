@@ -1,6 +1,6 @@
 # Site settings
 title: "Andrew K Moran"
-description: "Andrew K Moran - systems neuroscientist"
+description: "Andrew K Moran - a &quot;trying to be influential&quot; neuroscientist"
 
 # Build settings
 markdown: kramdown
@@ -12,7 +12,7 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Andrew K Moran"
 resume_title:                   ""
-resume_header_intro: "<p>I am a systems neuroscientist interested in olfaction, motor systems, and how information across brain regions encoding both smell and movement is encoded in the brain.</p> <p>I am currently a Postdoctoral Fellow working with Diego Restrepo and Abigail Person at the University of Colorado, Anschutz Medical Campus where I am examining how cerebellar circuits compute sensorimotor transforms utilized in odor plume navigation behavior.</p>" 
+resume_header_intro: "<p>I am a systems neuroscientist interested in olfaction, motor systems, and how information across brain regions encoding both smell and movement is encoded in the brain.</p> <p>Currently, a Postdoctoral Fellow working with Diego Restrepo and Abigail Person at the University of Colorado, Anschutz Medical Campus where I am examining how cerebellar circuits compute sensorimotor transforms utilized in odor plume navigation behavior.</p><p>I am currently on the industry market, looking for jobs utilizing my expertise: <ul> Olfactory-space; categorization, classification, and value of scents/flavors to the greater consumer market. </ul><ul>Novel technologies applied to basic/translational neuroscientific investigation (i.e., fluorescence indicators of neural activity, novel optics, high-density electrodes, etc.)</ul><ul>Intersections between neural data science and data archiving/indexing.</ul>" 
 
 # Decide which sections to use
 # comment out to hide
@@ -42,7 +42,7 @@ resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/andrew-k-moran-phd-912848b5/"
   # resume_instagram_url:         ""
   # resume_website_url:           ""
-#   resume_medium_url:            ""
+   resume_medium_url:            "https://medium.com/@andsinpants"
 resume_print_social_links:      true
 
 # Design settings
