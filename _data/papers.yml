@@ -7,7 +7,7 @@
     url: https://www.biorxiv.org/content/10.1101/2022.06.17.496591v1
     image: McCullough2022
     imagetype: jpg
-    briefly: "Electrophysiology and optical imaging are both parallel neurotechnologies used for studying neurophysiology. However, researchers tend to adopt one technology over the other with substantial limitations to either technique. Why not combine both? As part of the CU Neurophotonics team at CU Anschutz, we designed and tested a device, capable of recording population data and single-cell responses simultaneously in head-fixed or freely moving rodents. We call it the GRINtrode. We hope to ultimately utilize this technology in studying neural dynamics across brain regions during odor plume navigation."
+    briefly: "Electrophysiology and optical imaging are both parallel neurotechnologies used for studying neural activity. However, researchers tend to adopt one technology over the other with substantial limitations to either one. Why not combine both? As part of the CU Neurophotonics team at CU Anschutz, we designed and tested a device, capable of recording population data and single-cell responses simultaneously in head-fixed or freely moving rodents. We call it the GRINtrode. We hope to ultimately utilize this technology in studying neural dynamics across brain regions during odor plume navigation."
     summary: ""
     highlight: true
 -
@@ -19,7 +19,7 @@
     url: https://www.frontiersin.org/articles/10.3389/fncir.2021.779056/full
     image: Moran2021b
     imagetype: jpg
-    briefly: "Here, we dissected the underlying contribution of sensory drive and postsynaptic excitatory drive onto mitral/tufted cells in vivo using pharmacological methods. Surprisingly, we found a maintanence of glutamatergic drive when blocking postsynaptic excitation, suggesting that the majority of feedforward excitation is driven in vivo by sensory input. This paper challenges the in vitro notion that heterogenous bulbar output activity is mostly shaped by intermediate circuitry."
+    briefly: "Here, we dissected the underlying sources of excitatory drive onto mitral/tufted cells in vivo using pharmacological methods. Surprisingly, we found a maintanence of glutamatergic drive onto these cells when blocking postsynaptic excitation, suggesting that the majority of feedforward excitation is driven in vivo by sensory input. This paper challenges the in vitro notion that diverse bulbar output activity is mostly shaped by intermediate circuitry."
     summary: ""
     highlight: true
 -
@@ -31,6 +31,6 @@
     url: https://www.eneuro.org/content/8/2/ENEURO.0110-21.2021
     image: Moran2021a
     imagetype: jpg
-    briefly: "We discovered using glutamate sensors expressed across output neurons of the olfactory bulb, that glutamatergic drive across mitral tufted cells is diverse, suggestive of underlying principle output neurons being driven by excitatory drive. This paper was also the first to characterize second generation SF-iGluSnFRs and glutamate/calcium simultaneously two-photon imaging in the mammalian olfactory bulb in vivo."
+    briefly: "Throught imaging the excitatory input onto dendrites of bulbar output cells (mitral/tufted cells) we discovered that odor-evoked, glutamatergic drive is diverse. This paper was the first to characterize second generation SF-iGluSnFRs (optical indicators of glutamate) and captured glutamate/calcium dynamics simultaneously in the mammalian olfactory bulb in vivo."
     summary: ""
     highlight: true
