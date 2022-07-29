@@ -109,7 +109,7 @@
 .interest-button {
   @include border-radius(3px);
   background-color: #b4b6b8; /* light gray */
-  border: none;
+  border: 1px;
   color: white;
   padding: 2.5px;
   margin: 2px;
