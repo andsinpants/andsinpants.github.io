@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# CerebellumOPeN
+- project: Dissecting olfactocentric circuit contributions to sensorimotor drive in the cerebellum 
+  role: Lead Postdoctoral Researcher
+  duration: 2020 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: The cerebellum sits at the back of the brain, where its main function is to predict sensorimotor stimuli and sculpt behavior in response. Therefore, by studying the cerebellum, many systems neuroscientists can glean new predictive mechanisms used by the brain to treat nervous system diseases, to create novel predictive algorithms utilized in machine learning, and to create better robotics. Here, we are investigating how sensorimotor transforms specific to olfactory navigatory behavior can influence cerebellar circuits for fine motor correction.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# GlutamateOB
+- project: Optical analysis of odor-driven glutamate dynamics in circuits of the mammalian olfactory bulb 
+  role: Lead Graduate Student Researcher
+  duration: 2017 &mdash; 2020
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Odors are complex and how the brain can encode the identity of an odor is not well understood. Even more specific, the area that processes smell, the olfactory bulb, has many microcircuits to decode odor identity that are dependent on synaptic signaling. While the microcircuitry function of this area of the brain through excitatory neurotransmission has been analyzed, the debate still rages: Does an odor drive postsynaptic excitation in one synaptic "hop" or two? Here we used novel sensors of the excitatory neurotransmitter; glutamate, to dissect the contributions of such microcircuitry and found that the 1-hop hypothesis is probably correct.
+
+# CritcalityOBWP
+- project: Dynamic effects on network criciality in the olfactory bulb and whisker pad
+  role: Graduate Student Researcher
+  duration: 2017 &mdash; Present
+  url: "https://bit.ly/3OGUkHF"
+  description: Network criticality is a factor in how optimized a network is, theoretically. However, not much is known about how network crticality changes during active sampling. Myself and another Math PhD student have set out to explore network changes in criticality during sniffing and whisking. 
