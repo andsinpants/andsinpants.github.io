@@ -15,7 +15,7 @@ resume_title:                   ""
 resume_header_intro: "<p>I am a systems neuroscientist examining how information is processed across brain regions integrating both smell and movement.</p><p> My PhD work was performed with <a href=\"http://www.wachowiaklab.org/\">Matt Wachowiak</a> at the University of Utah, where I discovered diversity in the odor-evoked activity across bulbar output neurons being driven by glutamate. This activity strongly reflected that of olfactory sensory neuron responses. Future work on this project will answer how glutamate (and other neurotransmitters) shape(s) response patterns of other cell types in the glomerular microcircuit for odor perception.</p><p>Currently, I am a Postdoctoral Fellow working with <a href=\"http://www.restrepolab.org/\">Diego Restrepo</a> and <a href=\"http://www.personlab.org/\">Abigail Person</a> at the University of Colorado, Anschutz Medical Campus where I am examining how cerebellar circuits compute sensorimotor transforms utilized in odor plume navigation behavior.</p><p>My work and experience has signficance in the  fields of: <ul><li>perfumery, essential oils and flavor perception</li><li>brain-computer interfaces</li><li>computer science and data storage/accessibility</li></ul></p>"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "andrew.moran@cuanschutz.edu"
+resume_contact_email:           "andsinpants@gmail.com"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
