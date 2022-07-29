@@ -20,4 +20,4 @@
   role: Graduate Student Researcher
   duration: 2017 &mdash; Present
   url: https://bit.ly/3OGUkHF
-  description: Network criticality is a factor in how optimized a network is, theoretically. However, not much is known about how network criticality changes during active sampling. Myself and another Math PhD student, Jacob Madrid, have set out to explore network changes in criticality during sniffing and whisking. 
+  description: Network criticality is a measurement of how optimized a network is, theoretically. However, not much is known about how network criticality changes during active sampling. Myself and another Math PhD student, Jacob Madrid, have set out to explore network changes in criticality during sniffing and whisking. 
