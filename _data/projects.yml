@@ -1,0 +1,36 @@
+-
+    title: "GRINtrode: A neural implant for simultaneous two-photon imaging and extracellular electrophysiology in freely moving animals"
+    authors: "CM McCullough, D Ramirez-Gordillo, M Hall, GL Futia, <b>AK Moran</b>, EA Gibson, D Restrepo"
+    journal: "BioRxiv"
+    volume: "doi: https://doi.org/10.1101/2022.06.17.496591"
+    year: 2022
+    url: https://www.biorxiv.org/content/10.1101/2022.06.17.496591v1
+    image: McCullough2022
+    imagetype: jpg
+    briefly: "Electrophysiology and optical imaging are both parallel neurotechnologies used for studying neural activity. However, researchers tend to adopt one technology over the other with substantial limitations to either one. Why not combine both? As part of the CU Neurophotonics team at CU Anschutz, we designed and tested a device, capable of recording population data and single-cell responses simultaneously in head-fixed or freely moving rodents; the GRINtrode. We hope to ultimately utilize this technology in studying neural dynamics across brain regions during odor plume navigation."
+    summary: ""
+    highlight: true
+-
+    title: "Circuit Contributions to Sensory-Driven Glutamatergic Drive of Olfactory Bulb Mitral and Tufted Cells During Odorant Inhalation"
+    authors: "<b>AK Moran</b>, TP Eiting, M Wachowiak"
+    journal: "Frontiers in Neural Circuits"
+    volume: "15, 1-14"
+    year: 2021
+    url: https://www.frontiersin.org/articles/10.3389/fncir.2021.779056/full
+    image: Moran2021b
+    imagetype: jpg
+    briefly: "We dissected the underlying sources of excitatory drive onto mitral/tufted cells in vivo using pharmacological methods. Surprisingly, we found a maintenance of glutamatergic drive onto these cells when blocking postsynaptic excitation, suggestive of a majority of feedforward excitation being driven in vivo by sensory input rather than previously-hypothesized, postsynaptic circuitry."
+    summary: ""
+    highlight: true
+-
+    title: "Dynamics of Glutamatergic Drive Underlie Diverse Responses of Olfactory Bulb Outputs In Vivo"
+    authors: "<b>AK Moran</b>, TP Eiting, M Wachowiak"
+    journal: "eNeuro"
+    volume: "8(2), 1-19"
+    year: 2021
+    url: https://www.eneuro.org/content/8/2/ENEURO.0110-21.2021
+    image: Moran2021a
+    imagetype: jpg
+    briefly: "Here, we used novel glutamate indicators to image the excitatory input onto dendrites of bulbar output cells (mitral/tufted cells). We found that odor-evoked, glutamatergic drive is diverse. This paper was the first to characterize second generation SF-iGluSnFRs with a high-throughput olfactometer and captured odor-evoked, glutamate/calcium dynamics simultaneously in the mammalian olfactory bulb in vivo."
+    summary: ""
+    highlight: true
