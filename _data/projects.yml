@@ -15,9 +15,9 @@
   # url: "#"
   description: Odors are complex and how the brain can encode the identity of an odor is not well understood. Even more specific, the area that processes smell, the olfactory bulb, has many microcircuits to decode odor identity that are dependent on synaptic signaling. While the microcircuitry function of this area of the brain through excitatory neurotransmission has been analyzed, the debate still rages: Does an odor drive postsynaptic excitation in one synaptic "hop" or two? Here we used novel sensors of the excitatory neurotransmitter; glutamate, to dissect the contributions of such microcircuitry and found that the 1-hop hypothesis is probably correct.
 
-# CritcalityOBWP
+# https://bit.ly/3OGUkHF
 - project: Dynamic effects on network criciality in the olfactory bulb and whisker pad
   role: Graduate Student Researcher
   duration: 2017 &mdash; Present
-    url: https://bit.ly/3OGUkHF
+   url: "https://bit.ly/3OGUkHF"
   description: Network criticality is a factor in how optimized a network is, theoretically. However, not much is known about how network crticality changes during active sampling. Myself and another Math PhD student have set out to explore network changes in criticality during sniffing and whisking. 
