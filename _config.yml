@@ -12,7 +12,7 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Andrew K Moran"
 resume_title:                   ""
-resume_header_intro: "<p>I am a systems neuroscientist examining how information is processed across brain regions integrating both smell and movement.</p><p> My PhD work was performed with <a href=\"http://www.wachowiaklab.org/\">Matt Wachowiak</a> at the University of Utah.</p><p>My postdoctoral research is perfomed with <a href=\"http://www.restrepolab.org/\">Diego Restrepo</a> and <a href=\"http://www.personlab.org/\">Abigail Person</a> at the University of Colorado, Anschutz Medical Campus. <p>My work and experience has signficance in the  fields of: <ul><li>perfumery, essential/cannabis oils, and flavor perception</li><li>brain-computer interfaces</li><li>computer science and data storage/accessibility</li></ul></p>"
+resume_header_intro: "<p>I am a systems neuroscientist examining how information is processed across brain regions integrating both smell and movement.</p><p> My PhD work was performed with <a href=\"http://www.wachowiaklab.org/\">Matt Wachowiak</a> at the University of Utah.</p><p>My postdoctoral research is perfomed with <a href=\"http://www.restrepolab.org/\">Diego Restrepo</a> and <a href=\"http://www.personlab.org/\">Abigail Person</a> at the University of Colorado, Anschutz Medical Campus. <p>My work and experience has signficance in the  fields of: <ul><li>perfumery, essential/cannabis oils, and flavor perception</li><li>novel robotics for drug/bomb detection</li><li>brain-computer interfaces</li><li>computer science and data storage/accessibility</li></ul></p>"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "andsinpants@gmail.com"

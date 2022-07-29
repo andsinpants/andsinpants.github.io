@@ -8,4 +8,6 @@
 - description: novel neurophysiological tools
 - description: MATLAB
 - description: Python
-- description: STATA
+- description: SQL
+- description: microscopy
+- description: neural data science
