@@ -7,10 +7,9 @@
 - description: microscopy
 - description: novel neurophysiological tools
 - description: neural data science
-- description: generalized linear models
+- description: machine learning
 - description: dimensionality reduction
 - description: mixed models
-- description: machine learning
 - description: MATLAB
 - description: Python
 - description: SQL
