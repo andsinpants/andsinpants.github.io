@@ -35,7 +35,7 @@ resume_section_projects:         true
 resume_section_papers:           true
 #resume_section_posters:         false
 #resume_section_software:        false
-resume_section_teaching:        true
+#resume_section_teaching:        true
 #resume_section_talks:           false
 resume_section_interests:        true
 
