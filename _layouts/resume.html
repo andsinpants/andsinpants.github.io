@@ -222,14 +222,14 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Associations</h2>
+          <h2>Societies, Memberships, &amp; Roles</h2>
         </header>
 
         <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
         <ul class="resume-item-list">
         {% for associations in site.data.associations %}
           <li><b>{{ associations.role }}</b><br>{{ associations.organization }} &bull; {{ associations.year }}</li><br>
-		  <p class="resume-item-copy">{{ associations.summary }}</p>
+		  <span style="font-size:smaller; color: gray;">{{associations.summary }}</span>
           <!-- <h3 class="resume-item-title" itemprop="name">{% if associations.url %}<a href="{{ associations.url }}">{{ associations.organization }}</a>{% else %}{{ associations.organization }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ associations.role }} &bull; {{ associations.year }}</h4>
           <p class="resume-item-copy">{{ associations.summary }}</p> -->
