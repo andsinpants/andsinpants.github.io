@@ -2,7 +2,7 @@
 # comment out the urls if you do not wish to display them
 
 - organization: CU Denver/CU Anschutz Postdoctoral Association
-  role: #neuropostdocs Slack Channel Moderator
+  role: &#35;neuropostdocs Slack Channel Moderator
   year: 2020 &mdash; Present
   summary: "I created and moderated a Slack channel for CU Denver/Anschutz Neuroscience postdocs for resource sharing and community fostering."
 
