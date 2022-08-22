@@ -229,6 +229,7 @@
         <ul class="resume-item-list">
         {% for associations in site.data.associations %}
           <li><b>{{ associations.role }}</b><br>{{ associations.organization }} &bull; {{ associations.year }}</li><br>
+		  <p class="resume-item-copy">{{ associations.summary }}</p>
           <!-- <h3 class="resume-item-title" itemprop="name">{% if associations.url %}<a href="{{ associations.url }}">{{ associations.organization }}</a>{% else %}{{ associations.organization }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ associations.role }} &bull; {{ associations.year }}</h4>
           <p class="resume-item-copy">{{ associations.summary }}</p> -->
