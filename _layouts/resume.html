@@ -191,11 +191,11 @@
       </section>
       {% endif %}
 
-      {% if site.resume_section_recognition %}
+      {% if site.resume_section_recognitions %}
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Recognition</h2>
+          <h2>Recognitions</h2>
         </header>
 
         {% assign recognitions = site.data.recognitions | sort: "year" | reverse %}
@@ -203,8 +203,8 @@
         <ul class="resume-item-list">
         {% for recognition in recognitions %}
           <li>
-            <b>{{ recognition.award }}</b><br>
-            {{ recognition.organization }} &bull; {{ recognition.year }}<br>
+            <b>{{ recognitions.award }}</b><br>
+            {{ recognitions.organization }} &bull; {{ recognitions.year }}<br>
           </li><br>
           <!-- <ul class="resume-item-list"> -->
           <!-- <li>{{ association.organization }}<br>{{ association.role }} &bull; {{ association.year }}</li> -->
