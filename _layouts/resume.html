@@ -193,16 +193,19 @@
 
       {% if site.resume_section_recognitions %}
       <section class="content-section">
-        <header class="section-header">
+        
+		<header class="section-header">
           <h2>Funding &amp; Awards</h2>
         </header>
+		
         {% assign recognitions = site.data.recognitions | sort: "year" | reverse %}
-        <div class="resume-item">
+        
+		<div class="resume-item">
         <ul class="resume-item-list">
         {% for recognitions in recognitions %}
           <li>
             <b>{{ recognitions.award }}</b><br>
-            {{ recognitions.organization }} &bull; {{ recognitions.year }} &bull; {{ recognitions.type }}
+            {{ recognitions.organization }} &bull; {{ recognitions.year }} &bull; {{ recognitions.type }}<br>
           </li><br>
           <!-- <ul class="resume-item-list"> -->
           <!-- <li>{{ associations.organization }}<br>{{ associations.role }} &bull; {{ associations.year }}</li> -->
