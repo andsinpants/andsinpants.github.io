@@ -74,7 +74,7 @@
       </section>
       {% endif %}
       
-      {% if site.resume_section_software %}
+ <!--      {% if site.resume_section_software %}
       <section class="content-section">
         <header class="section-header">
           <h2>Software</h2>
@@ -89,7 +89,7 @@
           </ul>
         </div>
       </section>
-      {% endif %}
+      {% endif %} -->
       
       {% if site.resume_section_papers %}
       <section class="content-section">
@@ -101,7 +101,24 @@
         </div>
       </section>
       {% endif %}
-      
+	  
+      {% if site.resume_section_projects %}
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Projects</h2>
+        </header>
+
+        {% for project in site.data.projects %}
+        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
+          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
+          <p class="resume-item-copy">{{ project.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      {% endif %}
       {% if site.resume_section_talks %}
       <section class="content-section">
         <header class="section-header">
@@ -157,25 +174,8 @@
       </section>
       {% endif %}
 	  
-      {% if site.resume_section_projects %}
-      <section class="content-section">
-        <header class="section-header">
-          <h2>Projects</h2>
-        </header>
 
-        {% for project in site.data.projects %}
-        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
-          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
-          <p class="resume-item-copy">{{ project.description }}</p>
-        </div>
-        {% endfor %}
-
-      </section>
-      {% endif %}
-
-      {% if site.resume_section_skills %}
+<!--       {% if site.resume_section_skills %}
       <section class="content-section">
 
         <header class="section-header">
@@ -189,22 +189,20 @@
         {% endfor %}
 
       </section>
-      {% endif %}
+      {% endif %} -->
 
       {% if site.resume_section_recognitions %}
       <section class="content-section">
-
         <header class="section-header">
           <h2>Funding &amp; Awards</h2>
         </header>
-
         {% assign recognitions = site.data.recognitions | sort: "year" | reverse %}
         <div class="resume-item">
         <ul class="resume-item-list">
         {% for recognitions in recognitions %}
           <li>
             <b>{{ recognitions.award }}</b><br>
-            {{ recognitions.organization }} &bull; {{ recognitions.year }} &bull; {{ recognitions.type }}<br>
+            {{ recognitions.organization }} &bull; {{ recognitions.year }} &bull; {{ recognitions.type }}
           </li><br>
           <!-- <ul class="resume-item-list"> -->
           <!-- <li>{{ associations.organization }}<br>{{ associations.role }} &bull; {{ associations.year }}</li> -->
