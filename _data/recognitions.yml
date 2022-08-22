@@ -5,7 +5,7 @@
   year: 2022
 - award: NIH NIDCD Otolaryngology Training Grant Award (T32DC012280)
   organization: University of Colorado, Anschutz Medical Campus
-  type: academic
+  type: academic/financial
   year: 2020 
 - award: AChemS Annual Meeting Diversity Travel Award
   organization: Association for Chemoreception SciencesTa
@@ -13,11 +13,11 @@
   year: 2016, 2019, 2022
 - award: NIH NIDCD Diversity Supplemental Award for Predoctoral Fellows (R01DC006441-13S1)
   organization: University of Utah
-  type: academic
+  type: academic/financial
   year: 2015
 - award: NIH NINDS Neuroscience Training Grant Award (T32NS076067)
   organization: University of Utah
-  type: academic
+  type: academic/financial
   year: 2013
 - award: UCLA Psychology Undergraduate Research Conference (PURC) Poster Presenter Award
   organization: University of California, Los Angeles
