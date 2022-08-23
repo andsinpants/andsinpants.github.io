@@ -50,7 +50,7 @@ resume_social_links:
   # resume_facebook_url:          ""
   resume_linkedin_url:          "https://www.linkedin.com/in/andrew-k-moran-phd-912848b5/"
   # resume_instagram_url:         ""
-  # resume_website_url:           ""
+  resume_website_url:           "https://www.andrewkmoran.com/"
   resume_medium_url:            "https://medium.com/@andsinpants"
 resume_print_social_links:      true
 
