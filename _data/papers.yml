@@ -1,10 +1,10 @@
 -
     title: "GRINtrode: A neural implant for simultaneous two-photon imaging and extracellular electrophysiology in freely moving animals"
     authors: "CM McCullough, D Ramirez-Gordillo, M Hall, GL Futia, <b>AK Moran</b>, EA Gibson, D Restrepo"
-    journal: "BioRxiv"
-    volume: "doi: https://doi.org/10.1101/2022.06.17.496591"
+    journal: "Journal of Neurophotonics"
+    volume: "9(4), 1-17"
     year: 2022
-    url: https://www.biorxiv.org/content/10.1101/2022.06.17.496591v1
+    url: https://doi.org/10.1117/1.NPh.9.4.045009
     image: McCullough2022
     imagetype: jpg
     briefly: "Electrophysiology and optical imaging are both parallel neurotechnologies used for studying neural activity. However, researchers tend to adopt one technology over the other with substantial limitations to either one. Why not combine both? As part of the CU Neurophotonics team at CU Anschutz, we designed and tested a device, capable of recording population data and single-cell responses simultaneously in head-fixed or freely moving rodents; the GRINtrode. We hope to ultimately utilize this technology in studying neural dynamics across brain regions during odor plume navigation."
