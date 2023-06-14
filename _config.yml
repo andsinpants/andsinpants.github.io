@@ -1,6 +1,6 @@
 # Site settings
 title: "Andrew K Moran"
-description: "Andrew K Moran - industrial olfactomotor systems neuroscientist"
+description: "Andrew K Moran - industrial systems neuroscientist"
 
 # Build settings
 markdown: kramdown
@@ -12,7 +12,7 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Andrew K Moran"
 resume_title:                   ""
-resume_header_intro: "<p>I am a systems neuroscientist examining how information is processed across brain regions integrating both smell and movement.</p><p> My PhD work was performed with <a href=\"http://www.wachowiaklab.org/\">Matt Wachowiak</a> at the University of Utah.</p><p>My postdoctoral research was perfomed with <a href=\"http://www.restrepolab.org/\">Diego Restrepo</a> and <a href=\"http://www.personlab.org/\">Abigail Person</a> at the University of Colorado, Anschutz Medical Campus. <p>My work and experience has relevance in the fields of: <ul><li>perfumery, essential/cannabis oils, and flavor perception</li><li>novel robotics designed for drug/explosive detection</li><li>brain-computer interfaces</li><li>computer science principles in data storage/accessibility</li><li>novel pharmaceutical agents to treat brain disease states</li><li>utility of VR/robotics for treating sensorimotor disease states</li></ul></p>"
+resume_header_intro: "<p>I am a systems neuroscientist examining how sensorimotor information is integrated across brain regions.</p><p> My PhD work was performed with <a href=\"http://www.wachowiaklab.org/\">Matt Wachowiak</a> at the University of Utah.</p><p>My postdoctoral research was perfomed with <a href=\"http://www.restrepolab.org/\">Diego Restrepo</a> and <a href=\"http://www.personlab.org/\">Abigail Person</a> at the University of Colorado, Anschutz Medical Campus. <p>My work and experience has relevance in the fields of: <ul><li>perfumery, essential/cannabis oils, and flavor perception</li><li>novel robotics designed for drug/explosive detection</li><li>brain-computer interfaces</li><li>computer science principles in data storage/accessibility</li><li>novel pharmaceutical agents to treat brain disease states</li><li>utility of VR/robotics for treating sensorimotor disease states</li></ul></p>"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "andrewkmoran.phd@gmail.com"
@@ -42,7 +42,7 @@ resume_section_interests:        true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_email:                "andsinpants@gmail.com"
+  resume_email:                "andrewkmoran.phd@gmail.com"
   resume_github_url:            "https://github.com/andsinpants"
   resume_scholar_url:           "https://scholar.google.com/citations?user=C6OEeQMAAAAJ&hl=en"
   # resume_twitter_url:           ""
@@ -51,7 +51,7 @@ resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/andrew-k-moran-phd-912848b5/"
   # resume_instagram_url:         ""
   resume_website_url:           "https://www.andrewkmoran.com/"
-  resume_medium_url:            "https://medium.com/@andsinpants"
+  # resume_medium_url:            "https://medium.com/@andsinpants"
 resume_print_social_links:      true
 
 # Design settings
