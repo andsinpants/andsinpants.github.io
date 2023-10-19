@@ -1,8 +1,13 @@
 # Jobs
+- company: University of Utah (HSC Cores)
+  position: Software Development Core (SDC) Director
+  duration: Oct, 2023 &mdash; Present
+  summary: "As a Core Director, I oversee the creation of the Software Development Core at the University of Utah. I form strategic partnerships with academic clients in order to deliver customized software products and services."
+
 - company: Torque3
   position: Senior Data Scientist
-  duration: June, 2023 &mdash; Present
-  summary: "As an Senior Data Scientist, I work in collecting, verifying, and analyzing large datasets collected by the Torque3 platform. Such datasets track a rider's sensorimotor input, game engine output, and biometric variables across different virtual environments. I also form relationships with academic and clinical collaborators in order to get data-driven results using the Torque3 platform."
+  duration: June, 2023 &mdash; Sept, 2023
+  summary: "As a Senior Data Scientist, I worked in collecting, verifying, and analyzing large datasets collected by the Torque3 platform. Such datasets track a rider's sensorimotor input, game engine output, and biometric variables across different virtual environments. I also formed relationships with academic and clinical collaborators in order to get data-driven results using the Torque3 platform."
 
 - company: Torque3
   position: Technical Product Manager
