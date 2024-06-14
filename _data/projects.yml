@@ -18,6 +18,6 @@
 # Dynamic effects of active sensing on network criticality 
 - project: Dynamic effects of active sensing on network criticality
   role: Graduate Student Researcher
-  duration: 2017 &mdash; Present
+  duration: 2017 ;
   url: https://www.dropbox.com/s/mfqbki4tywx82od/MATH6770_ProjectWriteup_Final_website.pdf?dl=0
-  description: Network criticality is a measurement of how optimized a network is for information transfer. However, not much is known about how network criticality changes during active sampling. Myself and another Math PhD student, Jacob Madrid, have set out to explore network changes in criticality during sniffing and whisking. 
+  description: Network criticality is a measurement of how optimized a network is for information transfer. However, not much is known about how network criticality changes during active sampling. I'm intereseted in neural network changes in criticality during sniffing and whisking. 
