@@ -19,8 +19,8 @@ resume_header_intro: "<p>systems neuroscientist + mediocre software developer = 
 <li>use of a games/apps in digital health</li>
 <li>utility of VR/robotics for treating sensorimotor disease states and in drug/explosive detection</li>
 <li>brain-computer interfaces</li><li>computer science principles in data storage/accessibility</li>
-<li>novel pharmaceutical agents to treat brain disease states</li></ul></p>"
-<li>perfumery, essential/cannabis oils, and flavor perception</li>
+<li>novel pharmaceutical agents to treat brain disease states</li>
+<li>perfumery, essential/cannabis oils, and flavor perception</li></ul></p>"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "andrewkmoran.phd@gmail.com"
