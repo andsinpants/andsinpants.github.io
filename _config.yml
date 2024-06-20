@@ -12,13 +12,14 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Andrew K Moran"
 resume_title:                   ""
-resume_header_intro: "<p>systems neuroscientist + mediocre software developer = core director </p>
+resume_header_intro: "<p><b><i>systems neuroscientist + software developer + product manager = core director </i></b></p>
 <p> My predoc was performed with <a href=\"http://www.wachowiaklab.org/\">Matt Wachowiak</a> at the U.</p>
-<p>I was a postdoc at CU Anschutz with <a href=\"http://www.restrepolab.org/\">Diego Restrepo</a> and <a href=\"http://www.personlab.org/\">Abigail Person</a>. 
-<p>My basic reserach work and experience has broad relevance in the fields of: <ul>
-<li>use of a games/apps in digital health</li>
-<li>utility of VR/robotics for treating sensorimotor disease states and in drug/explosive detection</li>
-<li>brain-computer interfaces</li><li>computer science principles in data storage/accessibility</li>
+<p>My postdoc was at CU Anschutz with <a href=\"http://www.restrepolab.org/\">Diego Restrepo</a> and <a href=\"http://www.personlab.org/\">Abigail Person</a>. 
+<p>My basic research work and experience has broad relevance in the fields of: <ul>
+<li>games/apps design and development in digital health research and education</li>
+<li>VR + robotics for treating sensorimotor disease states</li>
+<li>brain-computer interfaces</li>
+<li>computer science principles in data storage/accessibility</li>
 <li>novel pharmaceutical agents to treat brain disease states</li>
 <li>perfumery, essential/cannabis oils, and flavor perception</li></ul></p>"
 
