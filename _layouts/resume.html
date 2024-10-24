@@ -125,7 +125,7 @@
         </header>
         <div class="resume-item">
           <ul class="resume-item-list">
-            {% for talk in site.data.presentations.talks %}
+            {% for talk in site.data.presentations.research_talks %}
             <li>
               {{ talk.detail }}
               {% if talk.url %}<a href="{{ talk.url }}">(link)</a>{% endif %}
@@ -141,7 +141,7 @@
         </header>
         <div class="resume-item">
           <ul class="resume-item-list">
-            {% for talk in site.data.presentations.talks %}
+            {% for talk in site.data.presentations.core_pitches%}
             <li>
               {{ talk.detail }}
               {% if talk.url %}<a href="{{ talk.url }}">(link)</a>{% endif %}
