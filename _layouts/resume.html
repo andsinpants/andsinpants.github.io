@@ -115,33 +115,17 @@
           <p class="resume-item-copy">{{ project.description }}</p>
         </div>
         {% endfor %}
-
+      
       </section>
       {% endif %}
-      {% if site.resume_section_research_talks %}
+      {% if site.resume_section_talks %}
       <section class="content-section">
         <header class="section-header">
-          <h2>Research Talks</h2>
+          <h2>Talks</h2>
         </header>
         <div class="resume-item">
           <ul class="resume-item-list">
-            {% for talk in site.data.presentations.research_talks %}
-            <li>
-              {{ talk.detail }}
-              {% if talk.url %}<a href="{{ talk.url }}">(link)</a>{% endif %}
-            </li><br>
-            {% endfor %}
-          </ul>
-        </div>
-      </section>
-      {% if site.resume_section_core_pitches %}
-      <section class="content-section">
-        <header class="section-header">
-          <h2>Core Pitches</h2>
-        </header>
-        <div class="resume-item">
-          <ul class="resume-item-list">
-            {% for talk in site.data.presentations.core_pitches%}
+            {% for talk in site.data.presentations.talks %}
             <li>
               {{ talk.detail }}
               {% if talk.url %}<a href="{{ talk.url }}">(link)</a>{% endif %}

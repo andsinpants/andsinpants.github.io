@@ -1,9 +1,9 @@
-core_pitches:
+pitches:
  - detail: "Moran AK (2024). Software Development and System Design Core; Steering, Services, Staff, and Support. Symposium: University of Utah, Digital Health Sympsoium, 2024 (invited talk)"
 
  - detail: "Moran AK (2024). Software Development and System Design Core; Mission and Services. Symposium: University of Utah, Huntsman Cancer Institute Resource Showcase, 2024 (invited talk)"
   
-research_talks:
+talks:
   - detail: "<b>Moran AK</b>, Teel, A, Williamson, R, Person, A, Restrepo, D (2022). Extracting positional information in an odor-guided droplet reach task. Symposium: CU Anschutz Department of Otolaryngology, Annual Otolaryngology Research Day, 2022 (invited talk)"
   
   - detail: "<b>Moran AK</b>, Wachowiak, M (2016) Optical dissection of odor processing circuitry in the mouse olfactory bulb. Symposium: University of Utah, Annual Neuroscience Student Symposium (invited talk)"
