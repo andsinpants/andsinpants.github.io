@@ -121,11 +121,11 @@
       {% if site.resume_section_talks %}
       <section class="content-section">
         <header class="section-header">
-          <h2>Talks</h2>
+          <h2>Core Pitches &amp; Research Talks</h2>
         </header>
         <div class="resume-item">
           <ul class="resume-item-list">
-            {% for talk in site.data.presentations.pitches %}
+            {% for talk in site.data.presentations.talks %}
             <li>
               {{ talk.detail }}
               {% if talk.url %}<a href="{{ talk.url }}">(link)</a>{% endif %}
