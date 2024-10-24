@@ -16,7 +16,7 @@ resume_header_intro: "<p><i>I am a Core Director: Where science and tech meets p
 <p> My predoc was performed with <a href=\"http://www.wachowiaklab.org/\">Matt Wachowiak</a> at the U.</p>
 <p>My postdoc was at CU Anschutz with <a href=\"http://www.restrepolab.org/\">Diego Restrepo</a> and <a href=\"http://www.personlab.org/\">Abigail Person</a>.
 <p>My basic research work and applied experience has relevance in the fields of: <ul>
-<li>Game/app creation for use in digital health research and education</li>
+<li>Game/app creation for use in digital health research, interventions, and education</li>
 <li>VR + robotics for treating sensorimotor disease states</li>
 <li>brain-computer interfaces</li>
 <li>computer science principles in data storage/accessibility</li>
@@ -45,8 +45,9 @@ resume_section_papers:           true
 resume_section_posters:          true
 #resume_section_software:        false
 resume_section_teaching:         true
-resume_section_talks:            true
+resume_section_research_talks:   true
 resume_section_interests:        true
+resume_section_core_pitches:   true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
