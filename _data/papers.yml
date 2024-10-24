@@ -1,4 +1,16 @@
 -
+    title: "Open-Source JL Olfactometer for Awake Behaving Recording of Brain Activity for Mice Engaged in Olfactory Tasks"
+    authors: "N Arevalo, L Merle, A Gentile-Polese, <b>A Moran</b>, A Parra, M Hall, J Losacco, M Ma, C McCullough, B Ozbay, D Ramirez-Gordillo, J Riguero, F Simoes-de Souza, K Steinke, R Williamson & D Restrepo"
+    journal: "Animal Models of Reproductive Behavior"
+    volume: "200, 137-156"
+    year: 2023
+    url: https://doi.org/10.1007/978-1-0716-3234-5_6
+    image: Arevalo2023
+    imagetype: jpg
+    briefly: "Creation of open-source technologies for research invesigtation is crucial to replicate studies. Here, we designed, developed, tested an open-source olfactometer for automated delivery of odors at particular concentrations and timing in awake, behaving animals. This was done in collaboration with the IDEA Core at CU Anschutz."
+    summary: ""
+    highlight: true
+
     title: "GRINtrode: A neural implant for simultaneous two-photon imaging and extracellular electrophysiology in freely moving animals"
     authors: "CM McCullough, D Ramirez-Gordillo, M Hall, GL Futia, <b>AK Moran</b>, EA Gibson, D Restrepo"
     journal: "Neurophotonics"
