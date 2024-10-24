@@ -10,7 +10,7 @@
     briefly: "Creation of open-source technologies for research invesigtation is crucial to replicate studies. Here, we designed, developed, tested an open-source olfactometer for automated delivery of odors at particular concentrations and timing in awake, behaving animals. This was done in collaboration with the IDEA Core at CU Anschutz."
     summary: ""
     highlight: true
-
+-
     title: "GRINtrode: A neural implant for simultaneous two-photon imaging and extracellular electrophysiology in freely moving animals"
     authors: "CM McCullough, D Ramirez-Gordillo, M Hall, GL Futia, <b>AK Moran</b>, EA Gibson, D Restrepo"
     journal: "Neurophotonics"
